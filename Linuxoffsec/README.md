@@ -1,3 +1,8 @@
 #Linuxsoffsec 
 
-Here you will find all the required commands to install tools for Linux machine
+Required tools -
+
+ADB-Tools
+Frida-tools
+objection
+Frida Scripts
